@@ -19,6 +19,13 @@
 
 ## Episodio 3: Aprendiendo directivas.
 
+* ¿Qué es una directiva?
+* Directivas selectivas (v-if / v-else / v-else-if / v-show).
+* V-For.
+* V-Bind.
+* Binding de estilos.
+
+## Episodio 4: Formularios.
 
 ---
 
